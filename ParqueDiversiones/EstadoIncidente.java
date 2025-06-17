@@ -1,4 +1,4 @@
-public enum EstadoIncidente {
+public enum Estadoincidente {
     REPORTADO,
     EN_INVESTIGACION,
     RESUELTO
